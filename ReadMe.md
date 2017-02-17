@@ -23,6 +23,10 @@ CSS
 
 I used flexbox to center my svg inside the page.
 
+General 
+
+If I initiallize npm after I have created my github repo, the github links 
+will populate automatically the package.json file.
 
 Links
 

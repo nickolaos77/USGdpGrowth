@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "barchart",
+  "description": "This is the my first simple project using the D3.js library.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickolaos77/USGdpGrowth.git"
+  },
+  "author": "Nick Papasavvas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickolaos77/USGdpGrowth/issues"
+  },
+  "homepage": "https://github.com/nickolaos77/USGdpGrowth#readme"
+}
